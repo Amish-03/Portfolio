@@ -1,6 +1,6 @@
 {
   "homepage": "https://amish-03.github.io/Portfolio",
-  "name": "Amish Portfolio",
+  "name": "amishportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
